@@ -2,6 +2,14 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Donations from "../components/Donations";
 
+/**
+ *  @description
+ *  This root (or index) page of our application.
+ *
+ *  @summary
+ *  From the page structure (being the index page), you can access this page via ---> http://localhost:3000/
+ */
+
 function Home() {
   return (
     <div>

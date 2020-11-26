@@ -1,3 +1,9 @@
+/**
+ *  @description
+ *  For simplicity of this workshop, we have opted to use a global.css to hold
+ *  ALL our styles. You are free to explore alternate ways to style your elements.
+ */
+
 * {
   line-height: 1.75;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI";
