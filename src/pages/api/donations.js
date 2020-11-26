@@ -25,7 +25,7 @@ const sampleDonations = [
  *  Learn more about HTTP Status codes here: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
  * 
  *  @summary
- *  From the page structure, you can access this API via ---> http://localhost:3000/api/donations
+ *  From the folder structure, you can access this API via ---> http://localhost:3000/api/donations
  * 
  *  @requires
  *  Your server to be running ---> Run `npm run dev` in your terminal

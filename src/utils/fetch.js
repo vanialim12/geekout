@@ -6,7 +6,7 @@ import axios from "axios";
  *  function to call an API from our server.
  *  
  *  @summary
- *  This specific API endpoint can be found in `src/pages/api/donations`
+ *  This specific API endpoint can be found in ---> `src/pages/api/donations`
  *  You can manually peek into this API via visiting (from your browser) 
  *  ---> http://localhost:3000/api/donations
  * 
