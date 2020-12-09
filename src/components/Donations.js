@@ -6,7 +6,7 @@ function renderEachCard(donationItem) {
     <div className="card">
       <h3>{donationItem.name}</h3>
       <span>
-        {donationItem.quantity} {donationItem.unit}
+        {donationItem.quantity} {donationItem.unit} 
       </span>
     </div>
   );
